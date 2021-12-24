@@ -4,7 +4,8 @@ This repository contains jupyter notebooks providing an implementation of basic 
 ## Notebook 1: Nearest Neighbours Classification
 It contains an implementation of nearest neighbours methods for classification:
 1) K-Nearest Neighbor method (k=1)
-2) Conformal Predictor.
+2) Conformal Predictor <br>
+
 Each algorithm is implemented on two datasets: Iris dataset from scikit-learn, Dataset imported from ionosphere.txt
 
 ## Notebook 2: Regression Methods
