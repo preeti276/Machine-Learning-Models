@@ -1,5 +1,5 @@
 # Nearest-Neighbour
-This repository contains a jupyter notebook providing an implementation of Nearest Neighbours methods for classification:
+This repository contains jupyter notebooks providing an implementation of Nearest Neighbours methods for classification:
 1) K-Nearest Neighbor method (k=1)
 2) Conformal Predictor.
 
