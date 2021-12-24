@@ -13,4 +13,4 @@ It provides an implementation of an inductive conformal predictor for regression
 <br><br>
 These algorithms are implemented on the diabetes dataset on the preprocessed scikit-version as well as the otiginal version found on: https://trevorhastie.github.io/data.html 
 
-It is a basic repository to have an understanding of ways to apply the ideas and algorithms of machine learning for classification and regression.
+It is a basic repository to have an understanding of ways to apply the ideas and algorithms of machine learning for classification and regression. All the code related details and relevant analysis are added in corresponding notebooks.
