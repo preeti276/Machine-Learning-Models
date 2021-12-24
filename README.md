@@ -1,5 +1,5 @@
-# Machine Learning Models for Regression and Classification
-This repository contains jupyter notebooks providing an implementation of basic Machine Learning models:
+# Machine Learning Algorithms
+This repository contains jupyter notebooks providing an implementation of basic Machine Learning models for regression and classification.
 
 ## Notebook 1: Nearest Neighbours Classification
 It contains an implementation of nearest neighbours methods for classification:
