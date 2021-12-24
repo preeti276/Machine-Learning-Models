@@ -1,4 +1,4 @@
-# Nearest-Neighbour
+# Machine Learning Models
 This repository contains jupyter notebooks providing an implementation of basic Machine Learning models:
 
 ## Notebook 1: Nearest Neighbours 
